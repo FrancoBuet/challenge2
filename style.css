@@ -1,0 +1,57 @@
+.padrecontenedorpopup {
+    text-align: center;
+}
+
+.popup {
+    width: 460px;
+    height: 491px;
+    display: inline-block;
+    text-align: center;
+    background-color: rgba(228, 220, 220, 0.596);
+    box-shadow: 1px 5px 9px rgba(128, 128, 128, 0.808);
+}
+
+.contenedorbox {
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box {
+    padding: 20px;
+    background-color: aqua;
+    border: black 1px solid;
+    border-radius:8px;
+
+}
+
+.contenedortexto {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contenedorcheckbox {
+    margin-left: 7%;
+    margin-top: 8%;
+    text-align: left;
+}
+
+.contenedorpadre {
+    margin-top: 15%;
+}
+
+.siguiente {
+    margin-top: 15%;
+}
+
+.texto1 {
+    margin-left: 8%;
+    text-align: left;
+}
+
+.texto2 {
+    margin-right: 10%;
+    text-align: right;
+}
+
+
